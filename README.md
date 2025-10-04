@@ -1,4 +1,4 @@
-# O que é a Pirâmide de Testes? Um guia para Qualidade no Desenvolvimento de Software
+#  Pirâmide de Testes: Seus conceitos, aplicações e benefícios.
 
 Bem-vindo ao guia da Pirâmide de Testes, um conceito essencial para estruturar testes de software de forma eficiente, garantindo qualidade, velocidade e baixo custo.
 
